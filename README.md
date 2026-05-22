@@ -1,2 +1,1 @@
-"# exploratory-data-analysis" 
-# exploratory-data-analysis
+Projeto desenvolvido no Centro Universitário UniSENAI campus Santo Amaro, no curso de Inteligência e Análise de Dados.
